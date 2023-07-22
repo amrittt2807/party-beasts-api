@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon partbeasts-backend/index.js"
   },
+  "engines": {
+    "node":">=14.20.1"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
