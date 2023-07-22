@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon partbeasts-backend/index.js"
+    "dev": "nodemon partbeasts-backend/index.js",
+    "start":"node index.js"
   },
   "engines": {
     "node":">=14.20.1"
